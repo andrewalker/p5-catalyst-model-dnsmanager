@@ -1,0 +1,3 @@
+=head1 Catalyst::Model::DNSManager
+
+A Catalyst model for managing DNS zone files.
